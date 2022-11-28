@@ -1,0 +1,5 @@
+homepage: "https://www.didsomeoneclone.me"
+documentation: "https://www.didsomeoneclone.me/installation"
+versions:
+  - sha: cce51e69d82295aa72c591c8fa5c6146d2f96959
+    changeNotes: Initial release.
