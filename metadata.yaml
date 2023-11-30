@@ -1,6 +1,8 @@
 homepage: "https://www.didsomeoneclone.me"
 documentation: "https://www.didsomeoneclone.me/installation"
 versions:
+  - sha: 2d3ebb519ebea6122baa6a6b8ef4605178c2134b
+    changeNotes: Update template
   - sha: 2aaf59b43fb2340b5409d8e299d28fed8a079c17
     changeNotes: Update to injectScript
   - sha: fa7d061ae4dbbb486e961647772ad2efd129e5de
